@@ -2,6 +2,17 @@
 ## Probabilistic Models
 ## Project: Sign Language Recognition System
 
+
+Implements `GaussianHMMs` and multiple models selection strategies to recognise language signs. Achieve 50% WER
+on the `RWTH-BOSTON-104 Database`.
+
+### Comparison multiple features and model selection
+![alt text](plots/wer.png)
+
+### Sample results
+![alt text](plots/phrases_result.png)
+
+
 ### Install
 
 This project requires **Python 3** and the following Python libraries installed:
