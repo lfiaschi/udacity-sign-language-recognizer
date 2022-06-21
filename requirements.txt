@@ -29,7 +29,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.0.0
 numexpr==2.6.2
-numpy==1.13.1
+numpy==1.22.0
 pandas==0.19.2
 pandocfilters==1.4.2
 pexpect==4.2.1
